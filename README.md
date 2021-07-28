@@ -1,7 +1,12 @@
 # Dominic Maglione #
 
-Hello! I'm a rising Sophomore at Boston University pursuing a B.A. in Computer Science with a concentration in systems and development. Currently, I am planning to an accelerated Master's in Computer Science here at BU. In CS, my passions are software development, IT operations, GNU/Linux, and open-source software. I am currently aspiring to be a Cloud Engineer or UNIX System Administrator and seeking an internship for Summer '22.
+## Hello! 👋##
+I'm a rising Sophomore at Boston University pursuing a B.A. in Computer Science with a concentration in systems and development. In CS, my passions are software development, IT operations, GNU/Linux, and open-source software. Below is a little more about me, and what I'm up to!
 
-When I'm not programming, you'll find me spending time with friends, skateboarding around the city, reading a good book, or enjoying a nice cup of coffee (sometimes tea). 
+* 🟦 Seeking an internship for Summer '22 and currently aspiring to be a Cloud Engineer or UNIX System Administrator.
+* ⬛️ Planning to complete an accelerated Master's in Computer Science ([BA/MS](https://www.bu.edu/cs/undergraduate/academic-programs/bama-program/)) at BU.
+* ⬜️ Serving as the current Director of Recruitment for BU Upsilon Pi Epsilon ([UPE](https://upe.bu.edu/)).
 
-Feel free to check out my website! 
+When I'm not programming, you'll find me spending time with friends, skateboarding around the city, reading a good book, or enjoying a nice cup of coffee (sometimes tea ☕️). 
+
+### To learn more about me or see my work, feel free to check out my [website](https://dcmaglione.github.io/dcmag.website/)! ###
