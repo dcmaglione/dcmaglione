@@ -9,4 +9,4 @@ I'm a rising Sophomore at Boston University pursuing a B.A. in Computer Science 
 
 When I'm not programming, you'll find me spending time with friends, skateboarding around the city, reading a good book, or enjoying a nice cup of coffee (sometimes tea ☕️). 
 
-### To learn more about me or see my work, feel free to check out my [website](https://dcmaglione.github.io/dcmag.website/)! ###
+### To learn more about me or see my work, feel free to check out my [website](https://dcmaglione.com)! ###
