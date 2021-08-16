@@ -15,9 +15,9 @@ I'm a rising Sophomore at Boston University pursuing a B.A. in Computer Science 
 systems and development. In CS, my passions are software development, IT operations, GNU/Linux, and 
 open-source software. Below is a little more about me, and what I'm up to!
 
-* 🟦 Seeking an internship for Summer '22 and currently aspiring to be a Product Manager or DevOps Engineer.
-* ⬛️ Planning to complete a dual minor in Economics and Innovation & Entrepreneurship at BU.
-* ⬜️ Serving as the current Director of Recruitment for BU Upsilon Pi Epsilon ([UPE](https://upe.bu.edu/)).
++ 🟦 Seeking an internship for Summer '22 and currently aspiring to be a Product Manager or DevOps Engineer.
++ ⬛️ Planning to complete a dual minor in Economics and Innovation & Entrepreneurship at BU.
++ ⬜️ Serving as the current Director of Recruitment for BU Upsilon Pi Epsilon ([UPE](https://upe.bu.edu/)).
 
 When I'm not programming, you'll find me spending time with friends, skateboarding around the city, reading 
 a good book, or enjoying a nice cup of coffee (sometimes tea). 
