@@ -11,7 +11,7 @@ d88' `888  d88' `"Y8 `888P"Y88bP"Y88b  `P  )88b  888' `88b   888  `888  d88' `88
                                                  d"     YD                                              
                                                  "Y88888P'                                         
                                                                                                        
-I'm a rising Sophomore at Boston University pursuing a B.A. in Computer Science with a concentration in 
+I'm a Sophomore at Boston University pursuing a B.A. in Computer Science with a concentration in 
 systems and development. In CS, my passions are software development, IT operations, GNU/Linux, and 
 open-source software. Below is a little more about me, and what I'm up to!
 
