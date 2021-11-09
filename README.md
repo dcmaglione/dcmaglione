@@ -16,7 +16,7 @@ systems and development. In CS, my passions are software development, IT operati
 open-source software. Below is a little more about me, and what I'm up to!
 
 + 🟦 Seeking an internship for Summer '22 and currently aspiring to be a Product Manager or DevOps Engineer.
-+ ⬛️ Planning to complete an additional B.A. in Economics
++ ⬛️ Planning to complete an additional B.A. in Political Science
 + ⬜️ Serving as the current Director of Recruitment for BU Upsilon Pi Epsilon ([UPE](https://upe.bu.edu/)).
 
 When I'm not programming, you'll find me spending time with friends, skateboarding around the city, reading 
