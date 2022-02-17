@@ -10,18 +10,19 @@ d88' `888  d88' `"Y8 `888P"Y88bP"Y88b  `P  )88b  888' `88b   888  `888  d88' `88
 `Y8bod88P" `Y8bod8P' o888o o888o o888o `Y888""8o `8oooooo.  o888o o888o `Y8bod8P' o888o o888o `Y8bod8P' 
                                                  d"     YD                                              
                                                  "Y88888P'                                         
-                                                                                                       
+```                                                                                                       
+
+## About Me ##
 I'm a Sophomore at Boston University pursuing a B.A. in Computer Science with a concentration in 
 systems and development. In CS, my passions are software development, IT operations, GNU/Linux, and 
 open-source software. Below is a little more about me, and what I'm up to!
 
-+ 🟦 Seeking part-time employment for Spring '22 and currently aspiring to be a Software or DevOps Engineer.
++ 🟥 Seeking part-time employment for Spring '22 and currently aspiring to be a Software or DevOps Engineer.
 + ⬛️ Planning to complete an accelerated Master's in Computer Science.
 + ⬜️ Serving as the current Director of Recruitment for BU Upsilon Pi Epsilon ([UPE](https://upe.bu.edu/)).
 
 When I'm not programming, you'll find me spending time with friends, skateboarding around the city, reading 
 a good book, or enjoying a nice cup of coffee (sometimes tea). 
-```
 
 ## Profile Stats ##
 <img src="https://github-readme-stats.vercel.app/api?username=dcmaglione&show_icons=true&show_icons=true&theme=onedark" height="150"></img>
