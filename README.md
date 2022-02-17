@@ -24,7 +24,7 @@ a good book, or enjoying a nice cup of coffee (sometimes tea).
 ```
 
 ## Profile Stats ##
-<img src="https://github-readme-stats.vercel.app/api?username=dcmaglione&show_icons=true&show_icons=true&theme=dark" height="150"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcmaglione&layout=compact&theme=dark" height="150"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=dcmaglione&show_icons=true&show_icons=true&theme=onedark" height="150"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcmaglione&layout=compact&theme=onedark" height="150"></img>
 
 ### To learn more about me or see my work, feel free to check out my [website](https://dcmaglione.com)! ###
