@@ -19,7 +19,7 @@ open-source software. Below is a little more about me, and what I'm up to!
 
 - Aspiring to be a Software or DevOps Engineer.
 - Completing an accelerated Master's in Computer Science.
-- Serving as the current President of ([BUILDS](builds.cc)).
+- Serving as the current President of [BUILDS](https://builds.cc/).
 
 When I'm not programming, you'll find me spending time with friends, skateboarding around the city, reading 
 a good book, or enjoying a nice cup of coffee (sometimes tea). 
