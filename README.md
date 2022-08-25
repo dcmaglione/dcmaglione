@@ -19,7 +19,7 @@ strong interpersonal skills. I'm a self-motivated individual with enterprise exp
 pursue a career that blends my particular skill set to deliver solutions to clients and customers. 
 Below is a little more about me, and what I'm up to!
 
-- Aspiring to be a Software or DevOps Engineer.
+- Aspiring Software Development Engineer.
 - Completing an accelerated Master's in Computer Science.
 - Serving as the current President of [BUILDS](https://builds.cc/).
 
