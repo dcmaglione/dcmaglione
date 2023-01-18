@@ -26,8 +26,4 @@ Below is a little more about me, and what I'm up to!
 Outside work, you'll find me spending quality time with friends, skateboarding around the city, 
 reading a good book, or enjoying a nice cup of coffee!
 
-## Profile Stats ##
-<img src="https://github-readme-stats.vercel.app/api?username=dcmaglione&show_icons=true&show_icons=true&theme=aura_dark" height="150"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcmaglione&layout=compact&theme=aura_dark" height="150"></img>
-
 ### To learn more about me or see my work, feel free to check out my [website](https://dcmaglione.com). ###
