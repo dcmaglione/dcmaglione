@@ -13,13 +13,8 @@ d88' `888  d88' `"Y8 `888P"Y88bP"Y88b  `P  )88b  888' `88b   888  `888  d88' `88
 ```
 
 ## About Me ##
-I'm a Junior at Boston University pursuing a BA/MS in Computer Science with a passion for software 
-development and IT operations. Within CS, I possess a unique balance of technical depth alongside 
-strong interpersonal skills. I'm a self-motivated individual with enterprise experience striving to 
-pursue a career that blends my particular skill set to deliver solutions to clients and customers. 
-Below is a little more about me, and what I'm up to!
+I'm a Junior at Boston University pursuing a BA/MS in Computer Science with a passion for software development and IT operations. Within CS, I possess a unique balance of technical depth alongside strong interpersonal skills. I'm a self-motivated individual with enterprise experience striving to pursue a career that blends my particular skill set to deliver solutions to clients and customers.
 
-Outside work, you'll find me spending quality time with friends, skateboarding around the city, 
-reading a good book, or enjoying a nice cup of coffee!
+Outside work, you'll find me spending quality time with friends, skateboarding around the city, reading a good book, or enjoying a nice cup of coffee.
 
 ### To learn more about me or see my work, feel free to check out my [website](https://dcmaglione.com). ###
