@@ -1,4 +1,4 @@
-# Hello, I'm Dominic #
+# Hello, I'm Dominic. #
 
 ```
       .o8                                                   oooo   o8o                                  
