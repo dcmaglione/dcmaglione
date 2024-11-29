@@ -13,7 +13,7 @@ d88' `888  d88' `"Y8 `888P"Y88bP"Y88b  `P  )88b  888' `88b   888  `888  d88' `88
 ```
 
 ## About Me ##
-I'm a Software Engineer at the Johns Hopkins University Applied Physics Laboratory working on Intelligent Combat Platforms.
+I'm a Software Engineer at the Johns Hopkins University Applied Physics Laboratory working in the Force Projection Sector.
 
 When I'm not clacking away at a keyboard, you'll find me spending quality time with friends and family, skateboarding around the city, reading a good book, or enjoying a nice cup of coffee. 
 
