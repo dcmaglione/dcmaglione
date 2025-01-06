@@ -17,4 +17,4 @@ I'm a Software Engineer at the Johns Hopkins University Applied Physics Laborato
 
 When I'm not clacking away at a keyboard, you'll find me spending quality time with friends and family, skateboarding around the city, reading a good book, or enjoying a nice cup of coffee. 
 
-### To learn more about me or see my blog, feel free to check out my [website](https://dcmaglione.com). ###
+### To learn more about me feel free to check out my [website](https://dcmaglione.com). ###
