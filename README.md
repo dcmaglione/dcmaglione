@@ -1,5 +1,3 @@
-# Hello, I'm Dominic. #
-
 ```
       .o8                                                   oooo   o8o                                  
      "888                                                   `888   `"'                                  
