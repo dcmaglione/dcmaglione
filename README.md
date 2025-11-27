@@ -11,10 +11,3 @@ d88' `888  d88' `"Y8 `888P"Y88bP"Y88b  `P  )88b  888' `88b   888  `888  d88' `88
                                                  d"     YD                                              
                                                  "Y88888P'                                         
 ```
-
-## About Me ##
-I'm a Mission Software Engineer at Anduril Industries.
-
-When I'm not clacking away at a keyboard, you'll find me spending quality time with friends and family, skateboarding around the city, reading a good book, or enjoying a nice cup of coffee. 
-
-### To learn more about me feel free to check out my [website](https://dcmaglione.com). ###
